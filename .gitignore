@@ -1,0 +1,30 @@
+# Python
+
+**pycache**/
+*.pyc
+*.pyo
+
+# Virtual Environment
+
+.venv/
+venv/
+
+# macOS
+
+.DS_Store
+
+# Dataset
+
+data/
+
+# Environment Variables
+
+.env
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Logs
+
+*.log
