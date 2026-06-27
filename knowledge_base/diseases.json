@@ -1,0 +1,158 @@
+{
+"Tomato": {
+"Healthy": {
+"description": "The tomato plant shows no visible disease symptoms.",
+"recommendations": [
+"Continue normal monitoring.",
+"Maintain proper irrigation.",
+"Inspect plants weekly."
+],
+"prevention": [
+"Maintain field hygiene.",
+"Rotate crops regularly."
+]
+},
+
+
+"Early Blight": {
+  "description": "A fungal disease causing brown concentric spots on older leaves.",
+  "recommendations": [
+    "Apply a suitable fungicide.",
+    "Remove severely infected leaves.",
+    "Improve air circulation."
+  ],
+  "prevention": [
+    "Avoid overhead irrigation.",
+    "Rotate crops.",
+    "Use disease-free seeds."
+  ]
+},
+
+"Late Blight": {
+  "description": "An aggressive disease that spreads rapidly in humid conditions.",
+  "recommendations": [
+    "Apply fungicide immediately.",
+    "Monitor nearby plants.",
+    "Remove severely infected plants."
+  ],
+  "prevention": [
+    "Avoid excessive moisture.",
+    "Ensure good spacing.",
+    "Inspect plants frequently."
+  ]
+},
+
+"Leaf Mold": {
+  "description": "Fungal disease causing yellow patches and mold beneath leaves.",
+  "recommendations": [
+    "Reduce greenhouse humidity.",
+    "Increase ventilation."
+  ],
+  "prevention": [
+    "Avoid overcrowding.",
+    "Remove infected leaves."
+  ]
+},
+
+"Yellow Leaf Curl Virus": {
+  "description": "A viral disease transmitted mainly by whiteflies.",
+  "recommendations": [
+    "Control whiteflies.",
+    "Remove infected plants."
+  ],
+  "prevention": [
+    "Use resistant varieties.",
+    "Monitor insect populations."
+  ]
+}
+
+
+},
+
+"Potato": {
+"Healthy": {
+"description": "Healthy potato foliage.",
+"recommendations": [
+"Continue monitoring."
+],
+"prevention": [
+"Practice crop rotation."
+]
+},
+
+
+"Early Blight": {
+  "description": "Fungal disease affecting potato foliage.",
+  "recommendations": [
+    "Apply fungicide.",
+    "Remove infected leaves."
+  ],
+  "prevention": [
+    "Rotate crops.",
+    "Maintain field sanitation."
+  ]
+},
+
+"Late Blight": {
+  "description": "Highly destructive disease favored by wet weather.",
+  "recommendations": [
+    "Treat immediately.",
+    "Monitor surrounding crops."
+  ],
+  "prevention": [
+    "Avoid prolonged leaf wetness.",
+    "Inspect crops regularly."
+  ]
+}
+
+
+},
+
+"Corn": {
+"Healthy": {
+"description": "Healthy maize plant.",
+"recommendations": [
+"Continue monitoring."
+],
+"prevention": [
+"Maintain proper nutrition."
+]
+},
+
+
+"Common Rust": {
+  "description": "Fungal disease producing reddish pustules.",
+  "recommendations": [
+    "Apply fungicide if necessary."
+  ],
+  "prevention": [
+    "Use resistant hybrids."
+  ]
+},
+
+"Northern Leaf Blight": {
+  "description": "Produces long gray-green lesions.",
+  "recommendations": [
+    "Monitor disease progression.",
+    "Apply treatment if severe."
+  ],
+  "prevention": [
+    "Crop rotation.",
+    "Field sanitation."
+  ]
+},
+
+"Gray Leaf Spot": {
+  "description": "Rectangular lesions reducing photosynthesis.",
+  "recommendations": [
+    "Apply fungicide.",
+    "Monitor neighboring plants."
+  ],
+  "prevention": [
+    "Reduce crop residue.",
+    "Use resistant hybrids."
+  ]
+}
+
+}
+}
