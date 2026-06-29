@@ -2,11 +2,68 @@
 
 # 🌱 AgriAgents
 
- **An AI-powered multi-agent decision support system for crop disease diagnosis, severity estimation, disease spread forecasting, and treatment recommendations.**
+<div align="center">
+
+# 🌱 AgriAgents
+
+### AI-Powered Multi-Agent Crop Disease Diagnosis & Decision Support System
+
+<p>
+<img src="https://img.shields.io/badge/Python-3.13-blue?logo=python">
+<img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-red?logo=pytorch">
+<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv">
+<img src="https://img.shields.io/badge/Streamlit-Web%20App-ff4b4b?logo=streamlit">
+<img src="https://img.shields.io/badge/License-MIT-green">
+</p>
+
+**Combining Computer Vision, Weather Intelligence, and Multi-Agent AI to help farmers detect crop diseases early, estimate infection severity, predict disease spread, and generate actionable treatment recommendations.**
+
+</div>
+
+---
+
+<p align="center">
+<img src="docs/demo_images/architecture.png" width="95%">
+</p>
+
+---
+
+## 📌 At a Glance
+
+| Feature                         |       Status      |
+| ------------------------------- | :---------------: |
+| Crop Disease Detection          |         ✅         |
+| Severity Estimation (OpenCV)    |         ✅         |
+| Weather-Aware Forecasting       |         ✅         |
+| Knowledge-Based Recommendations |         ✅         |
+| Multi-Agent Architecture        |         ✅         |
+| Streamlit Web Interface         |         ✅         |
+| Automated Testing               | ✅ 32 Tests Passed |
+
+---
+
 
 AgriAgents combines **Computer Vision**, **Multi-Agent AI**, **Weather Intelligence**, and a **Knowledge Base** to help farmers detect crop diseases early, estimate infection severity, predict disease spread, and receive actionable recommendations through a simple and intuitive interface.
 
 ---
+
+# 📈 Project Statistics
+
+| Metric           |        Value |
+| ---------------- | -----------: |
+| Supported Crops  |            3 |
+| Disease Classes  |           15 |
+| AI Agents        |            4 |
+| MCP Tools        |            3 |
+| Model Accuracy   |       99.46% |
+| Passing Tests    |           32 |
+| Dataset          | PlantVillage |
+| Backend          |       Python |
+| Frontend         |    Streamlit |
+| Computer Vision  |       OpenCV |
+| Weather Provider |   Open-Meteo |
+| Machine Learning |      PyTorch |
+
 
 ## 🚀 Project Overview
 
@@ -365,3 +422,96 @@ After analysis, AgriAgents provides a comprehensive decision support report that
 <p align="center">
   <img src="docs/demo_images/Result_Summary.jpeg" alt="AgriAgents Diagnosis Report" width="90%">
 </p>
+
+# 🛣 Roadmap
+
+The following roadmap outlines the planned evolution of AgriAgents.
+
+## ✅ Version 1.0 (Completed)
+
+- Multi-agent architecture
+- Deep learning disease classification
+- OpenCV severity estimation
+- Weather-aware disease forecasting
+- Knowledge-based recommendations
+- Comprehensive report generation
+- Streamlit web application
+- Automated testing suite
+
+---
+
+## 🚧 Version 2.0
+
+- Support for additional crops
+- Disease progression visualization
+- Farmer history dashboard
+- Offline diagnosis mode
+- Multi-language support
+- Improved recommendation engine
+
+---
+
+## 🌍 Version 3.0
+
+- Mobile application (Android & iOS)
+- Satellite imagery integration
+- Drone image analysis
+- IoT sensor integration
+- Voice assistant for farmers
+- Cloud deployment
+
+# 🔮 Future Improvements
+
+AgriAgents has been designed as a scalable research project.
+
+Future enhancements include:
+
+- Expanding support to additional crops and diseases.
+- Integrating Large Language Models (LLMs) for conversational agricultural assistance.
+- Predicting disease progression over time.
+- Personalized recommendations based on farm history.
+- GPS-based disease outbreak visualization.
+- Cloud deployment for real-time access.
+- Mobile application for offline rural environments.
+- Integration with agricultural IoT devices.
+
+# 👨‍💻 Author's Note
+
+AgriAgents began as more than a software engineering project.
+
+It represents a personal commitment to applying Artificial Intelligence to challenges I witnessed firsthand while growing up in a farming community. Working alongside my uncle on his farm showed me how crop diseases could threaten an entire season's harvest and how difficult it could be for farmers to access timely diagnostic support.
+
+Although I pursued Computer Engineering instead of Agricultural Engineering, my goal remained the same—to use technology to improve agricultural decision-making.
+
+AgriAgents is one step toward that vision.
+
+I hope this project demonstrates how Artificial Intelligence can become a practical tool that empowers farmers, improves productivity, and contributes to more sustainable agriculture.
+
+# 🙏 Acknowledgements
+
+This project would not have been possible without:
+
+- The PlantVillage dataset.
+- The PyTorch community.
+- OpenCV contributors.
+- Streamlit developers.
+- Open-Meteo for weather data.
+- Gujarat Technological University (GTU).
+- OpenAI for technical guidance during project development.
+
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
+# 🎓 Research Contribution
+
+AgriAgents demonstrates how multiple AI techniques can be combined into a unified agricultural decision support system.
+
+The project integrates:
+
+* Deep Learning for crop disease classification.
+* Computer Vision for disease severity estimation.
+* Weather intelligence for disease spread forecasting.
+* Knowledge-based reasoning for agricultural recommendations.
+* Multi-agent software architecture for modular decision making.
+
+This modular design allows future researchers and developers to replace or improve individual agents without redesigning the complete system, making AgriAgents a scalable foundation for future agricultural AI research.
+
